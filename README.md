@@ -9,6 +9,9 @@
 <ul>
     <li>Lucidchart</li>
     <li>MySQL</li>
+    <li>MySQL Workbench</li>
+    <li>draw.io</li>
+    
 </ul>
 <br>
 <h2>¿Cómo se llevó a cabo el proceso?</h2>
